@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+together
+better_profanity

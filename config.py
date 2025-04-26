@@ -1,0 +1,3 @@
+import os
+
+TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY", "4713adcca0da0b4ecc1d3df02035a85dfb703d69928a9b534246b0c22b454876")
